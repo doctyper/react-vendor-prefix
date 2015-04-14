@@ -1,6 +1,6 @@
 {
   "name": "react-vendor-prefix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vendor prefixing for inline styles",
   "main": "dist/index.js",
   "scripts": {
